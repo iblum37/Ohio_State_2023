@@ -2,6 +2,7 @@
 R Shiny App, Code, and CSVs for the Ohio State Sports Analytics Conference April 2023
 
 Link to the App here: [Pitcher Comparision Tool (PCT)](https://7dej8y-isaac-blumhoefer.shinyapps.io/PitchComparisonTool/)
+
 Disclaimer: May take minutes to initially load, including initial visuals, due to large amounts of data
 
 ### App Usage
