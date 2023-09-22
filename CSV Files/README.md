@@ -1,4 +1,4 @@
-## CSV Files Used
+# CSV Files Used
 CSV files used in the Sequencing-Arsenals.R code and the actual App.R itself.
 
 Disclaimer: Some CSVs could not be uploaded due to size. These include pitch location data for some of the visuals in the app, as well as all of the SavantPitchingData from 2015-2022.
