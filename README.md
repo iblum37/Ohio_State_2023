@@ -1,7 +1,7 @@
 # Pitch Comparison Tool @ Ohio State 2023
 R Shiny App, Code, and CSVs for the Ohio State Sports Analytics Conference April 2023
 
-Example of App: ![Pitcher Comparison Tool (PCT)]()
+Example of App: ![Pitcher Comparison Tool (PCT)](https://github.com/iblum37/Pitch-Comparison-Tool-Ohio-State-2023/blob/main/Pitch%20Comparison%20Tool.png)
 Link to the App here: [Pitcher Comparision Tool (PCT)](https://7dej8y-isaac-blumhoefer.shinyapps.io/PitchComparisonTool/)
 
 Disclaimer: May take minutes to initially load, including initial visuals, due to large amounts of data
